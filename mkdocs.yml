@@ -101,9 +101,9 @@ extra:
     # - icon: fontawesome/brands/github
     #   link: https://github.com/listerogusuku
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/insperinside/
+      link: https://www.instagram.com/bolsistasinsper
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/lister-ogusuku-ribeiro-6a1052148/
+      link: https://www.linkedin.com/company/comit%C3%AA-de-bolsistas-insper/
     # - icon: fontawesome/brands/docker
     #   link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     # - icon: fontawesome/brands/python
@@ -169,6 +169,7 @@ nav:
     #- Referências: philosophy.md
     # - Alternatives: alternatives.md
     # - License: license.md
+  - Nossa História: nossa-historia.md
   #   - Changelog:
   #     - changelog/index.md
   #     - How to upgrade: upgrade.md
@@ -228,7 +229,7 @@ nav:
   #   - Getting started:
   #     - Installation: insiders/getting-started.md
   #     - Changelog: insiders/changelog.md
-  - Nossa História: nossa-historia.md
+  # - Nossa História: nossa-historia.md
   #   - blog/index.md
   #   - 2022:
   #     - blog/posts/blog-support-just-landed.md
@@ -238,3 +239,5 @@ nav:
   #     - blog/posts/excluding-content-from-search.md
   #     - blog/posts/search-better-faster-smaller.md
   - Toca da Raposa: toca-da-raposa.md
+  - Comunicados Importantes: relacionamento-institucional.md
+  - Painel de doadores: doadores-e-apoiadores.md

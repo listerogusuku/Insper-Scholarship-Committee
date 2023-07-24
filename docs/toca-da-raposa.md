@@ -2,7 +2,7 @@ _Incluímos essa página sobre a Toca no site do Comitê, pois acreditamos que i
 
 **_O conteúdo a seguir foi extraído do site www.insideinsper.com.br/toca-da-raposa/_**
 
-![Toca da Raposa Insper](./imagens-condominios/toca-da-raposa-insper.png)
+![Toca da Raposa Insper](./imagens-comite/toca-da-raposa-insper.png)
 
 Aos calouros que conquistaram uma bolsa de estudos integral no Insper, **meus parabéns! Uma conquista e tanto!!**
 

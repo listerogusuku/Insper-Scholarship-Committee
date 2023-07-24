@@ -69,15 +69,15 @@ A atual gestão do Comitê de Bolsistas em 2023 pode ser conferida a seguir:
 
 ![Diretoria de Recursos Humanos](./imagens-comite/dir-rh.png)
 
-- Andreas Barbizan (3? - Economia)
-- Pedro Gomes (3? - Direito)
+- Andreas Barbisan (3A - Economia)
+- Pedro Gomes (3A - Direito)
 
 **_Diretoria de Relacionamento Institucional:_**
 
 ![Diretoria de Relacionamento Institucional](./imagens-comite/dir-ri.png)
 
-- Bruno Florencio (3? - Administração)
-- Davi Diniz (4? - Direito)
+- Bruno Florencio (3A - Administração)
+- Davi Diniz (4A - Direito)
 
 ## Conselho Deliberativo
 
