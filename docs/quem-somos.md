@@ -42,9 +42,9 @@ A atual gestão do Comitê de Bolsistas em 2023 pode ser conferida a seguir:
 
 ![Presidente e Vice](./imagens-comite/presidente-vice.png)
 
-- **Presidente:** Lorran Caetano Machado Lopes (7A - Eng. de Computação)
+- **Presidente:** Amanda Ribeiro (5A - Economia)
 
-- **Vice-presidente:** Amanda Ribeiro (6? - Economia)
+- **Vice-presidente:** Layne Silva (6A - Engenharia Mecatrônica)
 
 **_Diretoria Acadêmica:_**
 
@@ -57,7 +57,7 @@ A atual gestão do Comitê de Bolsistas em 2023 pode ser conferida a seguir:
 
 ![Diretoria de Eventos e Mídias](./imagens-comite/dir-eventos-e-midias.png)
 
-- Layne Silva (6A - Engenharia Mecatrônica)
+-
 
 **_Diretoria de Projetos:_**
 
@@ -92,6 +92,12 @@ _Por fim, segue a seguir a composição do atual Conselho Deliberativo do Comit�
 Agora que você já conheceu melhor quem somos, que tal ver um pouco de tudo que já fizemos para a Comunidade Bolsista do Insper?
 
 _Aos que desejarem conhecer melhor a história do surgimento do Comitê, visite a aba "Nossa História"._
+
+---
+
+## Galeria de Presidentes
+
+![Galeria de presidentes](./imagens-comite/galeria_presidentes.png)
 
 <!--
 I. **Fundadores do Comitê de Bolsistas** que tenham participado ativamente no seu desenvolvimento ou Membros da Diretoria Executiva **que tenham participado ativamente do Comitê e designado suas funções com primor no último 1 (um) ano;**

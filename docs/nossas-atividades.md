@@ -98,17 +98,13 @@ Agradecemos imensamente por toda participação dos membros da Comunidade Bolsis
 
 <iframe width="1351" height="480" src="https://www.youtube.com/embed/lf1p7os9sDQ" title="OpenMind Talks - Comitê de Bolsistas Insper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Semana Transformar?
-
-Verificar
-
 #### Divulgação de intercâmbio dos bolsistas
 
-Verificar
+Nossa área de Eventos e Mídias em parceria com o Relacionamento Institucional realizou, ao longo do semestre, a divulgação massiva de vaquinhas de arrecadação dos nossos bolsistas que vão fazer intercâmbio em 2023.2. Observamos que era de fundamental importância o forte engajamento de toda Comunidade Bolsista para que houvesse o maior alcance e arrecadação possível nas vaquinhas de todos. Para isso, utilizamos nossos meios de comunicação oficiais (como o e-mail institucional, LinkedIn e Instagram do Comitê) para atingir a maior quantidade de alunos, alumni, doadores e comunidade externa ao Insper.
 
 #### Criação do Instagram e LinkedIn do Comitê
 
-Verificar
+No primeiro semestre de 2023 nossa área de Eventos e Mídias também realizou o lançamento das redes sociais do Comitê de Bolsistas. Foram criados perfis e páginas no LinkedIn e Instagram, os quais em pouco tempo alcançaram números expressivos de seguidores e compartilhamentos nas publicações.
 
 #### Arraiá da Toca
 
@@ -128,7 +124,7 @@ No dia 18 de julho de 2023 alguns membros do Comitê de Bolsistas foram convidad
 
 ![Anúncio da aprovação dos novos bolsistas](./imagens-comite/atividades-realizadas/2023/23-1/aprovacao-novos-bolsistas.png)
 
-<iframe src="https://alinsperedu-my.sharepoint.com/personal/jonathanco1_al_insper_edu_br/_layouts/15/embed.aspx?UniqueId=2667a932-39cb-423b-9608-1832dfc9bcf3&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=OneUpFileViewer&referrerScenario=EmbedDialog.Create" width="720" height="400" frameborder="0" scrolling="no" allowfullscreen title="IMG_4685.mov"></iframe>
+<iframe width="1351" height="480" src="https://www.youtube.com/embed/iZ2t7tFo3O4" title="Bem vindos ao Insper - 2023.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

@@ -10,7 +10,7 @@ Essa página é dedicada ao reconhecimento dos doadores do Comitê de Bolsistas 
 
 : !!! Doador
 
-        [**- Lister Ogusuku Ribeiro (Eng. Comp Insper - Turma de 2025)**](https://www.linkedin.com/in/lister-ogusuku-ribeiro-6a1052148/) - Construção do nosso site oficial e doação da hospedagem na web por 1 ano.
+        [**Lister Ogusuku Ribeiro (Eng. Comp Insper - Turma de 2025)**](https://www.linkedin.com/in/lister-ogusuku-ribeiro-6a1052148/) - Construção do nosso site oficial e doação da hospedagem na web por 1 ano.
 
 ---
 
