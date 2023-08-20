@@ -50,18 +50,25 @@ A atual gestão do Comitê de Bolsistas em 2023 pode ser conferida a seguir:
 
 ![Diretoria Acadêmica](./imagens-comite/dir-acad.png)
 
-- Gabriel Valentim (6A - Eng. de Computação)
 - Hudson Monteiro Araújo (6A - Eng. de Computação)
 
-**_Diretoria de Eventos e Mídias:_**
+- Vinícius Rodrigues de Freitas (3A - Eng. de Computação)
+
+- _Gerente Acadêmico: Gabriel Valentim (6A - Eng. de Computação)_
+
+**_Diretoria de Marketing, Eventos e Mídias:_**
 
 ![Diretoria de Eventos e Mídias](./imagens-comite/dir-eventos-e-midias.png)
 
--
+- Gabriel de Sousa Fonseca (2A - Eng. Mecatrônica)
+
+- Nayani Marcelino Pinto (6A - Economia)
 
 **_Diretoria de Projetos:_**
 
 ![Diretoria de Projetos](./imagens-comite/dir-proj.png)
+
+- João Lucas de Gusmão (6A - Direito)
 
 - Tales Ivalque de Freitas (5A - Eng. de Computação)
 
