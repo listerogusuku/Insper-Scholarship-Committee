@@ -107,9 +107,9 @@ Em um processo de constante busca pela sua consolidação em meio a Comunidade B
 
 ### Um freezer para a Toca
 
-- Logo no início do semestre, o Comitê recebeu em seu e-mail institucional uma mensagem de um estudante morador da Toca relatando que **duas das geladeiras haviam quebrado** e a assistência técnica para manutenção estava **demorando mais que o normal.** Após esse relato, os membros do Relacionamento Institucional do Comitê buscaram **entender melhor o problema** e viram que a Toca necessitava de um freezer para dar conta das necessidades dos atuais moradores do residencial. Após isso, Giovana Vilhena e Lister Ogusuku Ribeiro começaram a **acionar contatos para buscar doações e descontos** para a aquisição de um novo freezer para a Toca. **Após 1 mês de campanhas com apoio de toda Comunidade Bolsista foi levantado o valor necessário e a Giovana também conseguiu um desconto por intermédio de um membro da Comunidade Alumni do Insper.**
+- Logo no início do semestre, o Comitê recebeu em seu e-mail institucional uma mensagem de um estudante morador da Toca relatando que **duas das geladeiras haviam quebrado** e a assistência técnica para manutenção estava **demorando mais que o normal.** Após esse relato, os membros do Relacionamento Institucional do Comitê buscaram **entender melhor o problema** e viram que a Toca necessitava de um freezer para dar conta das necessidades dos atuais moradores do residencial. Após isso, Giovana Vilhena e Lister Ogusuku Ribeiro começaram a **acionar contatos para buscar doações e descontos** para a aquisição de um novo freezer para a Toca. Durante esse período, foi de fundamental importância também a coordenação da arrecadação por parte da liderança da Toca da Raposa e dos membros do residencial estudantil. **Após 1 mês de campanhas com apoio de toda Comunidade Bolsista foi levantado o valor necessário e a Giovana também conseguiu um desconto por intermédio de um membro da Comunidade Alumni do Insper.**
 
-  _Na imagem a seguir deixamos registrado o dia em que o novo freezer chegou na Toca e os líderes do residencial na época nos convidaram para prestigiar esse momento:_
+  _Na imagem a seguir deixamos registrado o dia em que o novo freezer chegou na Toca e os líderes do residencial na época nos convidaram para prestigiar esse momento (da esquerda para a direita: Alexia, Giovana e Lister):_
 
 ![Freezer Toca da Raposa](./imagens-historia-comite/freezer-toca-da-raposa.jpg)
 
@@ -158,7 +158,7 @@ A imagem a seguir demonstra como ficou a estrutura final do Comitê de Bolsistas
 
 Essa página demonstrou um pouco de como foi toda a trajetória de formação do Comitê de Bolsistas do Insper, desde o momento em que este era somente uma ideia até o momento em que fora realizada toda sua formação, estruturação e consolidação. A todos que contribuíram para o surgimento e sucesso da nossa tão querida organização, gostaria de deixar aqui registrado meu muito obrigado!
 
-À atual e futuras Diretoriais e membros, conto com cada um de vocês para continuarmos tornando o Programa de Bolsas do Insper cada dia maior, mais inclusivo e melhor.
+À atual e futuras Diretorias e membros, conto com cada um de vocês para continuarmos tornando o Programa de Bolsas do Insper cada dia maior, mais inclusivo e melhor.
 
 **_Com carinho,_**
 
